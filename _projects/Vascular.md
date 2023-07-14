@@ -1,7 +1,7 @@
 ---
 title: 'Vascular'
 subtitle: 'Steel, Arduino IDE, Leds, Side Emmiting Fiber Optic Chord, Wire, Fishing Line, Arduino Nano, Heart Beat Sensor'
-date: 2019-06-30 00:00:00
+date: 2020-06-29 00:00:00
 description: Kmac Couture 2020 'Star Stuff'
 featured_image: '/images/Vascular1 (1).jpg'
 ---
