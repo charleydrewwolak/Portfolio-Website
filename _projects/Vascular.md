@@ -16,8 +16,3 @@ featured_image: '/images/Vascular1 (1).jpg'
 	<img src="/images/Vascular1.jpg">
 	<img src="/images/Vascular2.jpg">
 </div>
-
-<div class="gallery" data-columns="1">
-	<img src="/images/Vascular1.jpg">
-	<img src="/images/Vascular2.jpg">
-</div>

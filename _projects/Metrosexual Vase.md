@@ -14,8 +14,3 @@ featured_image: '/images/MetrosexualVase1.jpeg'
 	<img src="/images/MetrosexualVase1.jpeg">
 	<img src="/images/MetrosexualVase2.jpeg">
 </div>
-
-<div class="gallery" data-columns="1">
-	<img src="/images/MetrosexualVase1.jpeg">
-	<img src="/images/MetrosexualVase2.jpeg">
-</div>
