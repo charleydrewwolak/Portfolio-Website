@@ -35,7 +35,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"https://charleydrewwolak.com
+      type: "projects"
     values:
       layout: "project"
 
