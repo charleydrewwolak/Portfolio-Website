@@ -1,11 +1,11 @@
 basic_settings:
   site_title: Charley Drew-Wolak
-  site_tagline: 
+  site_tagline:
   favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: 'logo.svg'
-  logo_width: 120
+  logo_width: 135
 
 menu_settings:
   menu_items:
@@ -52,7 +52,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/charleydrew-wolak/'
 
 color_settings:
   background_color: '#ffffff'

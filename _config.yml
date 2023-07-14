@@ -1,6 +1,5 @@
 site: Charley Drew-Wolak
-
-url: https://charleydrewwolak.com
+url: charleydrewwolak.com
 baseurl: 
 
 
@@ -36,7 +35,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "projects"https://charleydrewwolak.com
     values:
       layout: "project"
 

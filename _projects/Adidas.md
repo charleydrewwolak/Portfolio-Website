@@ -3,7 +3,7 @@ title: 'Adidas'
 subtitle: 'Confirmed'
 date: 2022-05-31 00:00:00
 description: 
-featured_image: '/images/A4.jpg'
+featured_image: '/images/A4.JPG'
 ---
 
 <iframe src="https://player.vimeo.com/video/844796391?h=3681eb2f36" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
