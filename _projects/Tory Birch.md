@@ -7,7 +7,10 @@ featured_image: '/images/TB1.jpg'
 ---
 <iframe src="https://player.vimeo.com/video/844798664?h=f69fe31159"  width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-A kintetic sculpture celebrating the year of the tiger and Lunar New Year
+A kintetic sculpture celebrating the year of the tiger and Lunar New Year.
+
+Patten Studio
+
 LA, CA, 2022
 
 <div class="gallery" data-columns="3">
@@ -18,8 +21,8 @@ LA, CA, 2022
 
 
 **Contributions:**
-* Modified and engineered clients design to be fabrication ready.
+* Modified and engineered client's design to be fabrication-ready.
 * Procured materials and hardware.
-* Welded and fabricated two full assemblies
+* Welded and fabricated two full assemblies.
 * Designed system for transporting assemblies safely over air.
-* Installed on site.
+* Installed on-site.

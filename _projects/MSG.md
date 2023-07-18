@@ -9,12 +9,15 @@ featured_image: '/images/MSG1.jpg'
 ![](/images/MSG1.jpg)
 
 Fan Fabric is a photobooth that creates a personalized ticket stub using ai style-transfer to match the artwork of the ticket. 
+
+Patten Studio
+
 NYC, NY, 2023
 
 <iframe src="https://player.vimeo.com/video/844799691?h=b36595ef73" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **Contributions:**
-* Designed and engineered kiosks 
+* Designed and engineered kiosks.
 * Drafted plans for fabrication.
 * Coordinated with fabricators.
 * Installed lighting.

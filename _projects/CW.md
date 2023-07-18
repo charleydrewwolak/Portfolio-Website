@@ -6,7 +6,9 @@ description:
 featured_image: '/images/CW1.jpg'
 ---
 
-The Community Wall is a touch-interactive heatmap of the local cycling community. By browsing the Community Wall, riders can discover new trails and destinations listed as Staff Picks. Colorful trail descriptions help riders glean bits of insider knowledge pertaining to the trails and their nearby attractions. Riders also may upload their own photos and trails.  
+The Community Wall is a touch-interactive heatmap of the local cycling community. By browsing the Community Wall, riders can discover new trails and destinations listed as staff picks. Colorful trail descriptions help riders glean bits of insider knowledge pertaining to the trails and their nearby attractions.  
+
+Patten Studio
 
 Chicago, IL, Bentonville, AK, and Atlanta, GA, 2022
 

@@ -7,7 +7,10 @@ featured_image: '/images/A4.jpeg'
 ---
 
 <iframe src="https://player.vimeo.com/video/844796391?h=3681eb2f36" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Adidas confirmed is an interactive brand activation event.
+Adidas Confirmed is an interactive brand activation event.
+
+Patten Studio
+
 NYC, NY, 2022
 
 <div class="gallery" data-columns="3">
@@ -20,5 +23,5 @@ NYC, NY, 2022
 
 
 **Contributions:**
-* Designed and fabricated custom mounting solutions
+* Designed and fabricated custom mounting solutions.
 * Installed work at event space. 
