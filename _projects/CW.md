@@ -1,12 +1,12 @@
 ---
 title: 'Specialized'
-subtitle: 'Comunity Wall'
+subtitle: 'Community Wall'
 date: 2022-07-31 00:00:00
 description: 
 featured_image: '/images/CW1.jpg'
 ---
 
-The Community Wall is a touch-interactive heatmap of the local cycling community. By browsing the Community Wall, riders can discover new trails and destinations listed as staff picks. Colorful trail descriptions help riders glean bits of insider knowledge pertaining to the trails and their nearby attractions.  
+The Community Wall is a touch-interactive heatmap of the local cycling community. By browsing, riders can discover new trails and destinations listed as staff picks. Colorful trail descriptions help riders glean bits of insider knowledge pertaining to the trails and their nearby attractions.  
 
 Patten Studio
 
