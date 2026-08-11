@@ -1,27 +1,41 @@
 ---
-title: 'Adidas'
-subtitle: 'Confirmed'
-date: 2022-05-31 00:00:00
-description: Adidas confirmed is an interactive brand activation event 
-featured_image: '/images/A4.jpeg'
+title: 'The Met'
+subtitle: 'Superfine'
+date: 2025-05-01 00:00:00
+description: Exhibition unveiled at the Met Gala
+featured_image: '/images/met/met15.jpg'
 ---
+![](/images/met/met15.jpg)
 
-<iframe src="https://player.vimeo.com/video/844796391?h=3681eb2f36" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Adidas Confirmed is an interactive brand activation event.
+Unveiled during the 2025 Met Gala, which raised a record-setting $31 million, Superfine: Tailoring Black Style marked a landmark exhibition for The Met’s Costume Institute. Bednark led the technical design, fabrication, and installation—bringing the vision to life with precision, craftsmanship, and seamless collaboration across curatorial and creative teams.
+Bednark X Verb
 
-Patten Studio
+NYC, NY, Spring 2025
 
-NYC, NY, 2022
 
 <div class="gallery" data-columns="3">
-	<img src="/images/A1.jpeg">
-	<img src="/images/A2.jpeg">
-	<img src="/images/A3.jpeg">
-	<img src="/images/A4.jpeg">
-	<img src="/images/A5.jpeg">
+	<img src="/images/met/met15.jpg">
+	<img src="/images/met/met16.jpg">
+	<img src="/images/met/met17.jpg">
+	<img src="/images/met/met14.jpg">
+	<img src="/images/met/met19.jpg">
+	<img src="/images/met/met1.jpg">
+	<img src="/images/met/met2.jpg">
+	<img src="/images/met/met3.jpg">
+	<img src="/images/met/met4.jpg">
+	<img src="/images/met/met5.jpg">
+	<img src="/images/met/met6.jpg">
+	<img src="/images/met/met7.jpg">
+	<img src="/images/met/met9.jpg">
+	<img src="/images/met/met10.jpg">
+	<img src="/images/met/met11.jpg">
+	<img src="/images/met/met12.jpg">
+	<img src="/images/met/met13.jpg">
+	<img src="/images/met/met18.jpg">
+
+
 </div>
 
 
 **Contributions:**
-* Designed and fabricated custom mounting solutions.
-* Installed work at event space. 
+* Technical design for multiple elements

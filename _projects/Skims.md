@@ -1,27 +1,36 @@
 ---
-title: 'Adidas'
-subtitle: 'Confirmed'
-date: 2022-05-31 00:00:00
-description: Adidas confirmed is an interactive brand activation event 
-featured_image: '/images/A4.jpeg'
+title: 'Skims'
+subtitle: 'Valentines Shop'
+date: 2025-01-31 00:00:00
+description: Pop up Skims store
+featured_image: '/images/skims/sk0.jpg'
 ---
+![](/images/skims/sk0.jpg)
 
-<iframe src="https://player.vimeo.com/video/844796391?h=3681eb2f36" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Adidas Confirmed is an interactive brand activation event.
+In collaboration with Something Special Studio, Bednark provided full-service support—including location services, technical design, fabrication, installation, and strike.
 
-Patten Studio
+NYC, NY, Winter 2025
 
-NYC, NY, 2022
 
 <div class="gallery" data-columns="3">
-	<img src="/images/A1.jpeg">
-	<img src="/images/A2.jpeg">
-	<img src="/images/A3.jpeg">
-	<img src="/images/A4.jpeg">
-	<img src="/images/A5.jpeg">
+	<img src="/images/skims/sk1.jpg">
+	<img src="/images/skims/sk2.jpg">
+	<img src="/images/skims/sk3.jpg">
+	<img src="/images/skims/sk4.jpg">
+	<img src="/images/skims/sk5.jpg">
+	<img src="/images/skims/sk6.jpg">
+	<img src="/images/skims/sk7.jpg">
+	<img src="/images/skims/sk8.jpg">
+	<img src="/images/skims/sk9.jpg">
+	<img src="/images/skims/sk10.jpg">
+	<img src="/images/skims/sk11.jpg">
+	<img src="/images/skims/sk12.jpg">
+	<img src="/images/skims/sk14.jpg">
+	<img src="/images/skims/sk15.jpg">
+	
+
 </div>
 
 
 **Contributions:**
-* Designed and fabricated custom mounting solutions.
-* Installed work at event space. 
+* Technical design for external structure and entry heart sculpture
