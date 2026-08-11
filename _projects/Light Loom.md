@@ -8,7 +8,7 @@ featured_image: '/images/LL0.jpg'
 
 
 
-<iframe src="https://player.vimeo.com/video/762688665?h=ae9e302271" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/1127938205?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 An interactive, kinetic sculpture at the Science Mill unravels visible light to teach visitors of all ages about the properties of additive color.
 
 Patten Studio
