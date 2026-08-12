@@ -5,14 +5,17 @@ date: 2023-10-31 00:00:00
 description: Brick Wall, All points Canada, and Ceramic Cloud Activations 
 featured_image: '/images/gta-1.jpg'
 ---
-![](/images/gta-1.jpg)
 
 
 <iframe src="https://player.vimeo.com/video/1127915627?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 All points Canada
 
+Kinetic pendants mimic the smooth motion of canoes gliding on water.
+
 <iframe src="https://player.vimeo.com/video/1134013800?h=2af0675a83" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Yellow Brick Wall
 
 Mini displays inset in a wall composed of handcrafted bricks tell the story of Google’s impact across Canada.
 
@@ -20,6 +23,8 @@ Mini displays inset in a wall composed of handcrafted bricks tell the story of G
 <iframe src="https://player.vimeo.com/video/1127908042?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Ceramic Cloud
+
+Dimmable LED rings animate a ceiling sculpture of ceramic vessels made by First Nations’ artists.
 
 
 
