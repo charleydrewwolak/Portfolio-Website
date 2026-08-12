@@ -1,6 +1,6 @@
 ---
 title: 'Google Toronto'
-subtitle: 'Toronto'
+subtitle: 'SOSO and Patten Studio instalations'
 date: 2023-10-31 00:00:00 
 description: Brick Wall, All points Canada, and Ceramic Cloud Activations 
 featured_image: '/images/gta-1.jpg'
@@ -31,7 +31,7 @@ Dimmable LED rings animate a ceiling sculpture of ceramic vessels made by First 
 
 Patten Studio x SOSO
 
-NYC, NY, 2023
+Toronto, Canada, 2023
 
 <div class="gallery" data-columns="3">
 	<img src="/images/gta-1.jpg">
