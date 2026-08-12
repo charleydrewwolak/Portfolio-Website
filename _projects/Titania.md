@@ -7,6 +7,12 @@ featured_image: '/images/TITANIA/TITANIA.gif'
 ---
 ![](/images/TITANIA/TITANIA.gif)
 
+A robotic LED wearable wing sculpure and LED dress
+
+An origional piece of art
+
+Fall 2023
+
 <div class="gallery" data-columns="3">
 	<img src="/images/TITANIA/TITANIA.jpg">
 	<img src="/images/TITANIA/TITANIA1.jpg">

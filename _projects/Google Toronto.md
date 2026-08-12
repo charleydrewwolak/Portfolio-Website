@@ -37,4 +37,7 @@ NYC, NY, 2023
 
 **Contributions:**
 * Technical design and drafting for all 3 elements
-* Design developement for ceramic cloud lighting
+* Design developement across elements
+* CNC cutting and fabrication
+* Managing external vendors
+
