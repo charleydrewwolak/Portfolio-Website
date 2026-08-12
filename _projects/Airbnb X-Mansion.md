@@ -30,6 +30,10 @@ NYC, NY, Spring 2024
 
 
 **Contributions:**
-* Technical design and drafting interactive furnature elements: TV/counter, door, dresser, fire place, futon, and stairs
-* Prototyped mechanisms for functional door and futon
+* Lead technical design and drafting
+* Developed AV integration
+* Assisted with project management
+* Conducted site survey
+* Assisted with installation
+
 

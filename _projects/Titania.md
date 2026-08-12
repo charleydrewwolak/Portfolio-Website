@@ -7,7 +7,6 @@ featured_image: '/images/TITANIA/TITANIA.gif'
 ---
 ![](/images/TITANIA/TITANIA.gif)
 
-
 <div class="gallery" data-columns="3">
 	<img src="/images/TITANIA/TITANIA.jpg">
 	<img src="/images/TITANIA/TITANIA1.jpg">
@@ -23,6 +22,6 @@ featured_image: '/images/TITANIA/TITANIA.gif'
 	<img src="/images/TITANIA/TITANIA14.jpg">
 	<img src="/images/TITANIA/TITANIA15.jpg">
 
-
-
 </div>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1217512801?h=1c3dd32115" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>

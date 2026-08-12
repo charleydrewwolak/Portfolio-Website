@@ -27,11 +27,9 @@ NYC, NY, Summer 2024
 	<img src="/images/pp/pp10.webp">
 
 </div>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1217515300?h=5a99358bf3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 
 **Contributions:**
-* Lead technical design and drafting
-* Developed AV integration
-* Assisted with project management
-* Conducted site survey
-* Assisted with installation
+* Technical design and drafting interactive furnature elements: TV/counter, door, dresser, fire place, futon, and stairs
+* Prototyped mechanisms for functional door and futon

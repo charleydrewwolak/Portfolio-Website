@@ -1,7 +1,7 @@
 ---
 title: 'Google Toronto'
 subtitle: 'Toronto'
-date: 2023-05-31 00:00:00 
+date: 2023-10-31 00:00:00 
 description: Brick Wall, All points Canada, and Ceramic Cloud Activations 
 featured_image: '/images/gta-1.jpg'
 ---
