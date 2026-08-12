@@ -9,6 +9,8 @@ featured_image: '/images/skims/sk0.jpg'
 
 In collaboration with Something Special Studio, Bednark provided full-service support—including location services, technical design, fabrication, installation, and strike.
 
+Bednark
+
 NYC, NY, Winter 2025
 
 
@@ -25,9 +27,8 @@ NYC, NY, Winter 2025
 	<img src="/images/skims/sk10.jpg">
 	<img src="/images/skims/sk11.jpg">
 	<img src="/images/skims/sk12.jpg">
+	<img src="/images/skims/sk13.jpg">
 	<img src="/images/skims/sk14.jpg">
-	<img src="/images/skims/sk15.jpg">
-	
 
 </div>
 

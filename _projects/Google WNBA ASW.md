@@ -9,7 +9,9 @@ featured_image: '/images/asw/asw0.jpg'
 
 For the 2025 WNBA All-Star Weekend, Robot & Co reimagined fan engagement with a cutting-edge interactive experience. As the technical design partner, we brought the concept to life, engineering and fabricating an environment that blended basketball culture with next-gen tech for Google Pixel. Guests immersed themselves in digital courtside activations, social-first installations, and hands-on brand moments that celebrated the future of the game.
 
-Summer 2025
+Bednark 
+
+Indianapolis, Summer 2025
 
 
 <div class="gallery" data-columns="3">
